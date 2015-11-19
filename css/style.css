@@ -1,22 +1,22 @@
 @charset "utf-8";
 /* CSS Document */
 
-.fondo-contact{
+.bg-contact{
 	background-color:gray;
 }
 
-.fondo-header{
+.bg-header{
 	background-color:red;
 }
 
-.fondo-profile{
+.bg-profile{
 	background-color:blue;
 }
 
-.fondo-work{
+.bg-work{
 	background-color:purple;
 }
 
-.fondo-nav{
+.bg-nav{
 	background-color:#300;
 }
