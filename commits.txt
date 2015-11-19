@@ -1,0 +1,16 @@
+* b794cbd v15 - agregue normalize
+* ae4f3da v14 - agregue selector de tipo atributo
+* 3819f19 v13 - agregue selector de tipo hijos adacentes
+* 9937356 v12 - agregue selector de tipo id
+* 7c0d73d v11 - agregue selector de tipo descendente
+* d4a9b70 v10 - agregue selectores de tipo etiqueta
+* e56f84a v9.1 - corregi nombre de las clases
+* 1f50d6c v9 - agregue estilos a traves de un archivo css
+* 96fbdfb v8 - agregue maquetacion de footer
+* 179d181 v7 - agregue maquetacion de mis trabajos
+* be72d7e v6 - maquetacion de mi perfil
+* 998ec62 v5 - agregue maquetacion de avatar
+* de2fd8d v4 - maquetacion de menu
+* 1b13d7f v3 - maquetacion de la home
+* 4c6c697 v2 - se agrego favicon
+* 70a6ad7 v1 - carga inicial
