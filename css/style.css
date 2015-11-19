@@ -53,3 +53,9 @@ header nav ul{
 header nav ul>li{
 	text-align:right;
 }
+
+/* selectores de tipo atributos */
+
+[href="mailto:angiebracamontesc@hotmail.com"]{
+	color:#C03;
+}
