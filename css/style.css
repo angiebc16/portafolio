@@ -48,3 +48,8 @@ header nav ul{
 #Home{
 	text-align:center;
 }
+
+/* selectores de tipo hijos */
+header nav ul>li{
+	text-align:right;
+}
