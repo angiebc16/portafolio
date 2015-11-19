@@ -34,3 +34,11 @@ section{
 a{
 	text-decoration:none;
 }
+/* selectores de tipo descendente */
+header nav{
+	text-align:center;
+}
+
+header nav ul{
+	list-style:none
+}
