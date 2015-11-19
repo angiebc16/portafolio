@@ -40,5 +40,11 @@ header nav{
 }
 
 header nav ul{
-	list-style:none
+	list-style:none;
+}
+
+/* selectores de tipo id, lleva al inicio un # */
+
+#Home{
+	text-align:center;
 }
