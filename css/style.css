@@ -1,5 +1,5 @@
 @charset "utf-8";
-/* CSS Document */
+/* selectores de tipo clase */
 
 .bg-contact{
 	background-color:gray;
@@ -19,4 +19,18 @@
 
 .bg-nav{
 	background-color:#300;
+}
+
+/* selectores de tipo etiquetas */
+
+body{
+	background-color:green;
+}
+
+section{
+	border:dashed;
+}
+
+a{
+	text-decoration:none;
 }
