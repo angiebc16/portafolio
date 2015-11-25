@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* selectores de tipo clase */
+
+.bg-contact{
+	background-color:gray;
+}
+
+.bg-header{
+	background-color:red;
+}
+
+.bg-profile{
+	background-color:blue;
+}
+
+.bg-work{
+	background-color:purple;
+}
+
+.bg-nav{
+	background-color:#300;
+}
+
+/* selectores de tipo etiquetas */
+
+body{
+	background-color:green;
+}
+
+section{
+	border:dashed;
+}
+
+a{
+	text-decoration:none;
+}
+/* selectores de tipo descendente */
+header nav{
+	text-align:center;
+}
+
+header nav ul{
+	list-style:none;
+}
+
+/* selectores de tipo id, lleva al inicio un # */
+
+#Home{
+	text-align:center;
+}
+
+/* selectores de tipo hijos */
+header nav ul>li{
+	text-align:right;
+}
+
+/* selectores de tipo atributos */
+
+[href="mailto:angiebracamontesc@hotmail.com"]{
+	color:#C03;
+}
