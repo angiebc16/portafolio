@@ -35,3 +35,21 @@
 	padding:2em;
 	text-align:center;
 }
+
+.Header-image{
+	border:5px solid #FFFFFF;
+	border-radius: 50%;
+	width:6.5em;
+}
+
+.Header-name,
+.Header-link{
+	color:#FFF;
+}
+
+.Header-link{
+	font-size:1.5em;
+	font-weight:bold;
+	text-decoration:none;
+}
+	
