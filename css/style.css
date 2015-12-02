@@ -1,5 +1,5 @@
 @charset "utf-8";
-/* CSS Document */
+/* menu */
 
 .MainMenu{
 	background-color:#000;
@@ -26,6 +26,7 @@
 	line-height:2.5em;
 }
 
+/* Header Module */
 .Header{
 	margin-top:2.5em;
 	background-image:url(../img/portada.jpg);
@@ -56,4 +57,36 @@
 .header-imageContainer{
 	margin:0px;
 }
-	
+
+.Header-name{
+	font-weight:300;
+}
+/* Profile Module */
+.Profile{
+	text-align:center;
+}
+
+.Profile-link{
+	background-color:#F90;
+	border-radius:2em;
+	text-decoration:none;
+	color:white;
+	padding:.5em 1em;
+}
+
+/* utilities */
+
+.u-title{
+	border-bottom:2px dashed #00CCFF;
+	color:#00CCFF;
+	font-weight:400;
+	padding-bottom:.8em;
+}
+
+.u-strong{
+	font-weight:bold;
+}
+
+.u-italic{
+	font-style:italic;
+}
