@@ -73,10 +73,32 @@
 	color:white;
 	padding:.5em 1em;
 }
+/* Footer Module */
+.Footer{
+	background-image:url(../img/Footer.jpg)
+}
 
+.Footer-description{
+	color:white;
+	text-align:center;
+}
+.Footer-map{
+	margin-left:23em;
+}
+
+.Footer-mail{
+	color:white;
+	text-decoration:none;
+	text-align:center;
+}
 /* Work Module */
 .Work{
 	text-align:center;
+}
+
+.MainContacto{
+	text-align:center;
+	color: #00CCFF;
 }
 
 .Work-item{
